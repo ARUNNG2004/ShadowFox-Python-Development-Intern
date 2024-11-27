@@ -18,4 +18,4 @@ The **ShadowFox Python Development Internship** focuses on practical learning an
 
 1. Clone this repository using the following command:
    ```bash
-   git clone [https://github.com/<your-username>/ShadowFox.git](https://github.com/ARUNNG2004/ShadowFox-Python-Development-Intern/tree/main)
+   git clone [https://github.com/ARUNNG2004/ShadowFox-Python-Development-Intern]
